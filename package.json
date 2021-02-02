@@ -1,0 +1,20 @@
+{
+  "name": "deploy-cli",
+  "version": "1.0.0",
+  "description": "deploy cli git compile build server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "deploy"
+  ],
+  "author": "kuku2018lpp@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "lodash": "^4.17.20",
+    "mkdirp": "^1.0.4",
+    "shelljs": "^0.8.4"
+  }
+}
